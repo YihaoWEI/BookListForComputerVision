@@ -1,15 +1,10 @@
 # BookListForComputerVision
+
 [原文链接](https://www.msra.cn/zh-cn/news/features/book-recommendation-cv)
 
 Microsoft
 微软亚洲研究院
-学术合作  大会和活动 科技前沿 新闻中心 更多  Microsoft Research
-所有 Microsoft
 
-请登录你的帐户
-登录
-首页   新闻中心   深度文章  书单 | 计算机视觉的修炼秘笈
-书单 | 计算机视觉的修炼秘笈
 2018-02-06 | 作者：王井东
 
 不久前我们推出的自然语言学习书单推荐受到了大家的热烈欢迎，在此先感谢大家的关注和支持。
@@ -20,9 +15,10 @@ Microsoft
 
 一起来看看这些计算机视觉领域的修炼秘笈吧！下一个计算机视觉高手也许就是你哦！
 
-一、综合篇
-1. Computer Vision: A Modern Approach
+## 一、综合篇
 
+1. Computer Vision: A Modern Approach  
+![img](img/book-recommendation-cv-1.jpg)  
 作者：David A. Forsyth,‎ Jean Ponce
 
 出版时间：2003（第一版），2011（第二版）
@@ -31,16 +27,14 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 主要内容：本书包含了计算机视觉领域众多问题：成像、面向单张图像的早期视觉、面向多张图像的早期视觉、中层视觉问题、高层视觉问题，也包括了相关的视觉应用，如基于图像的建模与绘制、以人为中心的视觉问题、图像搜索，最后，作者也简要讲述了视觉算法相关的优化技术。
 
 推荐理由：本书既有对计算机视觉问题的系统的讲解，又有对相关问题的详细的讲述。通过本书，读者能够实现计算机视觉应用。本教材成书较早（第一版：2003，第二版：2011），但内容全面广泛，可作为高年级本科生或研究生的教材或参考书，也可作为计算机视觉工程人员的参考书。本书也适合作为计算机视觉相关领域，包括多媒体搜索、计算机图像学、机器人、图像处理、以及成像等领域的研究人员参考书。
 
-图书主页：http://luthuli.cs.uiuc.edu/~daf/book/book.html
+[图书主页](http://luthuli.cs.uiuc.edu/~daf/book/book.html)
 
-2. Computer Vision: Algorithms and Applications
-
+2. Computer Vision: Algorithms and Applications  
+![img](img/book-recommendation-cv-2.png)  
 作者：Richard Szeliski
 
 出版时间：2010
@@ -49,17 +43,15 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 本书内容：本教材包含用于分析理解图像的各种各样的技术，同时也讲述了具有挑战性的现实世界的视觉问题，比如医学图像，以及适合于个人相册的图像编辑技术等。具体课题包括：成像，图像处理，特征检测、匹配与分割，基于特征的对齐，基于运动的结构重建，图像粘贴，计算摄影学，立体对齐，三维重建，基于图像的绘制和识别等等。作者也提供了计算机视觉算法涉及到的线性代数、数值优化技术、贝叶斯建模与推理。
 
 推荐理由：本书是作者多年从事计算机视觉教学与研究的成果，按照课程项目的方式组织。可供高年级本科生和研究生计算机视觉课程的教材。
 
-图书主页：http://szeliski.org/Book/
+[图书主页](http://szeliski.org/Book/)
 
-二、几何篇
-1. Multiple View Geometry in Computer Vision
-
+## 二、几何篇
+1. Multiple View Geometry in Computer Vision  
+![img](img/book-recommendation-cv-3.jpg)  
 作者：Richard Hartley, Andrew Zisserman
 
 出版时间：2000 （第一版），2004（第二版）
@@ -68,16 +60,14 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 本书内容：理解真实世界的三维结构是计算机视觉领域的一个基本问题。本书内容包括三维几何与重建所需要的计算相关的几何原则及物体的代数表达。本书以统一框架的形式给出了场景重建的理论与实现细节。同时作者也提供了详尽的背景知识、应用和实现算法的解释。
 
 推荐理由：本教材系统是多视角几何经典教材，既包含经典的方法，又包括现代的方法。本书写作清晰明了，又不失连贯性。本书可作为计算机视觉和计算机图形学等课程高年级本科生和研究生教材，对于自动驾驶、机器人、AR/VR、无人机、地理测绘等领域研究人员和技术人员是重要的参考书。
 
-图书主页：http://www.robots.ox.ac.uk/~vgg/hzbook/
+[图书主页](http://www.robots.ox.ac.uk/~vgg/hzbook/)
 
-2. An Invitation to 3-D Vision: From Images to Geometric Models
-
+2. An Invitation to 3-D Vision: From Images to Geometric Models  
+![img](img/book-recommendation-cv-4.jpg)  
 作者：Yi Ma, Stefano Soatto,‎ Jana Kosecká,‎ S. Shankar Sastry
 
 出版时间：2005
@@ -86,16 +76,14 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 主要内容：本书着重讲述了计算机视觉中的重要问题：利用线性代数和矩阵理论从一系列二维图像中重建三维结构和运动。本书的特点是一套基于多幅图像的研究几何和重建几何模型的统一框架，也包括了图像形成、基本的图像处理方法以及特征提取等内容，同时也给出实现视觉算法及系统的操作指南。
 
 推荐理由：本书适合于计算机视觉、应用数学、计算机图形学，及机器人等方向的高年级本科生、研究生以及研究人员。同时作者也提供了算法实现的程序，对于自动驾驶、机器人、AR/VR、无人机、地理测绘等领域研究人员和技术人员是重要的参考书。
 
-图书主页：http://vision.ucla.edu/MASKS/
+[图书主页](http://vision.ucla.edu/MASKS/)
 
-3. 计算机视觉： 计算理论与算法基础
-
+3. 计算机视觉： 计算理论与算法基础  
+![img](img/book-recommendation-cv-5.jpg)  
 作者：马颂德，张正友
 
 出版时间：1998 （第一版），2003（第二版）
@@ -104,15 +92,13 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 主要内容：计算机视觉从信息处理的层次研究视觉信息的认知过程，以及视觉信息处理的计算理论、表达与计算方法。本书系统地介绍了计算机视觉的重要理论与算法，包括图像特征提取、摄像机定标、立体视觉、运动视觉(或称序列图像分析)、由图像灰度恢复三维物体形状的方法、物体建模与识别方法以及距离图像分析方法等。
 
 推荐理由：本书主要涵盖了计算机视觉领域早期视觉的问题，对相关问题的研究背景和实现方法做了详细阐述。可作为高年级本科生或研究生的教材或参考书，也可供自动驾驶，AR/VR，无人机，地理测绘等领域研究人员和技术人员参考。
 
-三、机器学习篇
-1. Computer Vision: Models, Learning, and Inference
-
+## 三、机器学习篇
+1. Computer Vision: Models, Learning, and Inference  
+![img](img/book-recommendation-cv-6.jpg)  
 作者：Simon J.D. Prince
 
 出版时间：2012
@@ -121,16 +107,14 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 主要内容：本书介绍了解决计算机视觉问题的概率模型学习与推理的方法，讲述了如何利用训练数据建立观察图像和要估计的内容的联系，例如估计三维结构。本书包括概率基础知识、概率图模型、图分割方法、多视觉几何、相机标定、人脸识别、目标跟踪等等。书中共介绍了70多种算法。
 
 推荐理由：本书可以看成计算机视觉与机器学习结合的果实，提供了应用于计算机视觉研究的机器学习（深度学习除外）基本知识，描述简明直观。本教材可作为高年级本科生以及研究生计算机视觉教材，也适合于计算机视觉从业人员。
 
-图书主页：http://www.computervisionmodels.com/
+[图书主页](http://www.computervisionmodels.com/)
 
-2. Pattern Recognition and Machine Learning
-
+2. Pattern Recognition and Machine Learning  
+![img](img/book-recommendation-cv-7.jpg)  
 作者：Christopher Bishop
 
 出版时间：2006
@@ -139,16 +123,14 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 主要内容：本书是第一本从贝叶斯的角度讲述模式识别，用图模型的方式描述离散概率分布的书籍。内容包括：线性回归模型、线性分类模型、神经网络、核方法、稀疏核方法、图模型、混合模型与期望最大化算法、近似推理、采样方法、连续隐变量模型等。
 
 推荐理由：本书主要讲述应用于模式识别问题的机器学习方法，也包括视觉识别问题，适合作为高年级本科生及研究生的教材，也是计算机视觉领域研究人员及从业人员学习机器学习的参考书。
 
-图书主页：https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book?from=https%3A%2F%2Fresearch.microsoft.com%2F%7Ecmbishop%2FPRML%2Findex.htm
+[图书主页](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book?from=https%3A%2F%2Fresearch.microsoft.com%2F%7Ecmbishop%2FPRML%2Findex.htm)
 
-3. Deep Learning
-
+3. Deep Learning  
+![img](img/book-recommendation-cv-8.jpg)  
 作者：Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 出版时间：2016
@@ -157,16 +139,14 @@ Microsoft
 
 推荐指数：★★★★☆
 
-
-
 主要内容：本书包括三大部分，第一部分介绍了基本的数学工具和机器学习概念，第二部分描述了最著名的深度学习算法，第三部分列举了深度学习研究前沿的想法及问题。
 
 推荐理由：本书不是专门为计算机视觉而写的深度学习教材，但是包含了成书之前计算机视觉领域发明的深度学习技术，可作为计算机视觉领域的高年级本科生及研究生的教材，也可作为计算机视觉研究人员和从业人员参考书。
 
-图书主页：http://www.deeplearningbook.org/
+[图书主页](http://www.deeplearningbook.org/)
 
-4. Generalized Principal Component Analysis
-
+4. Generalized Principal Component Analysis  
+![img](img/book-recommendation-cv-9.jpg)  
 作者：RenéVidal,‎ Yi Ma,‎ Shankar Sastry
 
 出版时间：2016
@@ -175,18 +155,16 @@ Microsoft
 
 推荐指数：★★★★★
 
-
-
 主要内容：本书介绍了关于从一个或多个子空间或流形产生出来的，可能含有噪声、大误差或者异常的高维数据建模的数学理论和计算工作的最新进展，涵盖了用于子空间估计和分割的最新的代数的、几何的、统计的计算方法，并且给出了若干在图像处理、图像视频分割、人脸识别与聚类等问题的有趣应用。
 
 推荐理由：本教材可做为计算机视觉以及图像和信号处理、数据科学、机器学习、系统理论等领域的研究生和起步的研究者。本书包含了大量的图解说明、例子、以及练习习题，同时涵盖了本教材涉及到的统计、优化、代数几何等方面的基本概念和原理。
 
-图书主页：http://perception.csl.illinois.edu/gpca/
+[图书主页](http://perception.csl.illinois.edu/gpca/)
 
-四、经典读物篇
-Vision: A Computational Investigation into the Human Representation and Processing of Visual Information
-
-作者：David Marr
+## 四、经典读物篇
+Vision: A Computational Investigation into the Human Representation and Processing of Visual Information  
+![img](img/book-recommendation-cv-10.jpg)  
+作者：David Marr  
 
 出版时间：1982
 
@@ -194,17 +172,8 @@ Vision: A Computational Investigation into the Human Representation and Processi
 
 推荐指数：★★★★★
 
-
-
 主要内容：本书提供了理解视觉感知的框架，也涉及了大量研究和理解大脑及其功能的问题。在Marr的框架里，视觉过程建立了一套表达方法：开始于图像描述，终结于在周围环境中的三维物体描述。他提出了在神经科学和认知科学领域具有重大影响力的多层次分析方法论：计算层次、算法层次、硬件算法层次。
 
 推荐理由：本书系统的描述了Marr的对于视觉感知的理解的框架。本书自出版以来，影响一代大脑及认知科学家。时至今日，这本书依然是致力于大脑和认知科学、计算机视觉领域特别是视觉感知的研究人员的参考书。
 
 怎么样，找到适合自己的书了吗？2018年不妨先给自己定个小计划：读完3本计算机视觉的经典书目！
-
-标签
-计算机视觉
-相关链接
-书单 | NLP秘笈，从入门到进阶
-
-发布时间：2017-12-20
